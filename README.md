@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-# Reg no:212223230141
 # Name :Navinkumar v
+# Reg no:212223230141
 ## AIM
 To perform a study on sliding window protocol.
 ## ALGORITHM:
@@ -42,8 +42,8 @@ while True:
 ```
 ## OUPUT
 ### client:
-![image](https://github.com/navinofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/151710204/6a2ca07e-5fbe-4d57-86cb-e204c5752f66)
+![Screenshot 2024-05-09 132709](https://github.com/navinofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/151710204/e0b4de8f-8c26-40f4-9646-099d23c09778)
 ### server:
-![image](https://github.com/navinofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/151710204/9800ff4c-6bb0-474e-9efa-6309a1728fb9)
+![image](https://github.com/navinofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/151710204/b3f5df3e-3d7c-4392-9050-beb33e9b5740)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
