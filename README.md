@@ -42,8 +42,8 @@ while True:
 ```
 ## OUPUT
 ### client:
-![Screenshot 2024-05-09 132709](https://github.com/navinofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/151710204/e0b4de8f-8c26-40f4-9646-099d23c09778)
+![Screenshot 2024-05-09 132709](https://github.com/navinofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/151710204/99e80af4-656f-4db3-8249-812ab19c9787)
 ### server:
-![image](https://github.com/navinofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/151710204/b3f5df3e-3d7c-4392-9050-beb33e9b5740)
+![Screenshot 2024-05-09 132725](https://github.com/navinofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/151710204/6b7b223b-ac63-47eb-a86e-9d760e8ee43c)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
